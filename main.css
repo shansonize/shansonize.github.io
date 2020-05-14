@@ -135,6 +135,10 @@ footer {
   header {
     justify-content: center;
   }
+  
+  .wrapper {
+    padding: 0 10px;	  
+  }
 
   footer {
     padding: 20px;
